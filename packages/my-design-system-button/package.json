@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest"
   },
-  "gitHead": "b772ef476b7950147ca83982c861bd6d2036286f",
+  "gitHead": "df908c414d80b157fe081505bc0ea0185674a4a5",
   "publishConfig": {
     "access": "public"
   }
