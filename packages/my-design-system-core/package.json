@@ -1,6 +1,6 @@
 {
   "name": "@my-scope-name/my-design-system-core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "license": "MIT",
   "gitHead": "3b8dafe1abf4873cfee210f87501dfd234345956"
