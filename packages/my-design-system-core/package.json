@@ -2,5 +2,6 @@
   "name": "@my-scope-name/my-design-system-core",
   "version": "0.0.1",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "3b8dafe1abf4873cfee210f87501dfd234345956"
 }
