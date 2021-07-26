@@ -1,4 +1,4 @@
-import Button from '@my-scope-name/my-design-system-button';
+import Button from '@ivankoretskyy/my-design-system-button';
 const Form = () => {console.log('form'), Button()}
 
 export default Form;
