@@ -1,9 +1,9 @@
 {
   "name": "@ivankoretskyy/app1",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@ivankoretskyy/my-design-system-core": "^0.0.5"
+    "@ivankoretskyy/my-design-system-core": "^0.0.6"
   }
 }
