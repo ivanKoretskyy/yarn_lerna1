@@ -7,5 +7,8 @@
   "dependencies": {
     "@my-scope-name/my-design-system-button": "^0.0.2"
   },
-  "gitHead": "3b8dafe1abf4873cfee210f87501dfd234345956"
+  "gitHead": "b772ef476b7950147ca83982c861bd6d2036286f",
+  "publishConfig": {
+    "access": "public"
+  }
 }
