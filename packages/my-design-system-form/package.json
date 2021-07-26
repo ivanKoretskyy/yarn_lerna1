@@ -3,5 +3,8 @@
   "version": "0.0.0",
   "description": "form",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@my-scope-name/my-design-system-button": "^0.0.0"
+  }
 }
