@@ -1,11 +1,11 @@
 {
   "name": "@my-scope-name/my-design-system-form",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "form",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@my-scope-name/my-design-system-button": "^0.0.2"
+    "@my-scope-name/my-design-system-button": "^0.0.3"
   },
   "gitHead": "b772ef476b7950147ca83982c861bd6d2036286f",
   "publishConfig": {
