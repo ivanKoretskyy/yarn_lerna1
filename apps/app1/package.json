@@ -2,5 +2,8 @@
   "name": "@my-scope-name/app1",
   "version": "0.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@my-scope-name/my-design-system-core": "^0.0.5"
+  }
 }

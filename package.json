@@ -15,7 +15,7 @@
   },
   "private": true,
   "workspaces": [
-    "packages/*"
+    "packages/*", "apps/*"
   ],
   "publishConfig": {
     "access": "public"
